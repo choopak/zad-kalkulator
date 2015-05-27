@@ -32,7 +32,7 @@ class Kalkulator
         return $this->b;
     }
 
-   public function sum()
+   public function add()
     {
     return $this->a + $this->b;
     }
